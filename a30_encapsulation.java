@@ -20,7 +20,7 @@ class Human{
     }
 
 
-    //USING SOURCE ACTION SETTING 
+    //USING SOURCE ACTION SETTING - GETTERS & SETTERS
 
     // public int getAge() {
     //     return age;
