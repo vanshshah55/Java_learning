@@ -41,5 +41,11 @@ public class a33_thisandsuper {
 		B obj=new B(5);//prints all for above code/
         System.out.println("************");
         A obj3 = new A(3);
+
+     
+        
+        System.out.println(obj1);
+        System.out.println(obj);
+        System.out.println(obj3);
 	}
 }
