@@ -10,7 +10,7 @@ class mobile{
     // }
 
     public static void show1(mobile obj){
-        System.out.println(obj.brand + " - " + obj.price + " : " + obj.name);
+        System.out.println(obj.brand + " - " + obj.price + " : " + mobile.name);
     }
 }
 
