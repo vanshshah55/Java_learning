@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class a73_StreamAPI {
+public class a73_needforStreamAPI {
     public static void main(String[] args) {
         List<Integer> nums = Arrays.asList(2,3,5,21,1,4,5,2,9,1,45,7);
 
