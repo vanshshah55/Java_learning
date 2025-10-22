@@ -6,7 +6,7 @@
 - Data types in java - First Session
 - Literal - First Session
 - Type conversion - First Session
-
+---
 - Assignment Operators - Second Session
 - Relational Operators - Second Session
 - Logical Operators - Second Session
@@ -14,7 +14,7 @@
 - If Else if - Second Session
 - ternary - Second Session
 - Switch Statement - Second Session
-
+---
 - Need For Loop - Third Session
 - While Loop - Third Session
 - Do While Loop - Third Session
@@ -25,7 +25,7 @@
 - JDK JRE JVM - Third Session
 - Methods - Third Session
 - Method Overloading - Third Session
-
+---
 - Stack And Heap - Fourth Session
 - Need of an Array - Fourth Session
 - Creation of Array - Fourth Session
@@ -37,7 +37,7 @@
 - What is String - Fourth Session
 - Mutable vs Immutable string - Fourth Session
 - StringBuffer and StringBuilder - Fourth Session
-
+---
 - static variable - Fifth Session
 - static block - Fifth Session
 - static method - Fifth Session
@@ -49,7 +49,7 @@
 - this and super method - Fifth Session
 - Naming Convention - Fifth Session
 - Anonymous Object - Fifth Session
-
+---
 - Need of Inheritance - Sixth Session
 - What is Inheritance - Sixth Session
 - Single and Multilevel inheritance - Sixth Session
@@ -57,7 +57,7 @@
 - Method Overriding - Sixth Session
 - packages - Sixth Session
 - Access Modifiers - Sixth Session
-
+---
 - Polymorphism - Seventh Session
 - Dynamic Method Dispatch - Seventh Session
 - Final keyword - Seventh Session
@@ -67,7 +67,7 @@
 - Inner class - Seventh Session
 - Anonymous Inner class - Seventh Session
 - abstract and anonymous inner class - Seventh Session
-
+---
 - What is Interface - Eighth Session
 - More on Interfaces - Eighth Session
 - Need of Interface - Eighth Session
@@ -79,7 +79,7 @@
 - Lambda Expression - Eighth Session
 - Lambda Expression with return - Eighth Session
 - Types of Interface - Eighth Session
-
+---
 - What is Exception - Ninth Session
 - Exception Handling using try catch - Ninth Session
 - try with multiple catch - Ninth Session
@@ -89,13 +89,13 @@
 - Ducking Exception using throws - Ninth Session
 - User Input using BufferedReader and Scanner - Ninth Session
 - try with resources - Ninth Session
-
+---
 - Threads - Tenth Session
 - Multiple Threads - Tenth Session
 - Thread Priority and Sleep - Tenth Session
 - Runnable vs Thread - Tenth Session
 - Race Condition - Tenth Session
-
+---
 - Thread states - Eleventh Session
 - Collection API - Eleventh Session
 - ArrayList - Eleventh Session
@@ -107,3 +107,4 @@
 - Stream API - Eleventh Session
 - Map Filter Reduce Sorted - Eleventh Session
 - Wrapper Class - Eleventh Session
+---
